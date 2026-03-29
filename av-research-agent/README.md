@@ -122,6 +122,3 @@ av-research-agent/
 └── README.md
 ```
 
-## License
-
-MIT
